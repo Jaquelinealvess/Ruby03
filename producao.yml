@@ -1,0 +1,3 @@
+#exemplo de ambiente producao diferente de homolog
+url_padrao: 'https://prod.automacaocombatista.herokuapp.com/'
+user: Joao
